@@ -137,7 +137,6 @@ Create `CLAUDE.md` in your project root:
 - Clean: `mcp__xcodebuildmcp__clean`
 
 ## Project Structure
-```
 MyApp/
 ├── App/                    # App entry point, App delegate
 ├── Features/               # Feature modules
@@ -151,7 +150,7 @@ MyApp/
 │   └── Networking/
 ├── Resources/              # Assets, Localizations
 └── Tests/
-```
+
 
 ## Coding Standards
 
